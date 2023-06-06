@@ -16,7 +16,7 @@ const Forms = () => {
     <div className="container" id="container" ref={container}>
       <div className="form-container sign-up-container">
         <form action="#">
-          <h1 className="title-class">Create Account</h1>
+          <h1 className="title-class">Create New Account</h1>
 
           <input type="text" placeholder="Name" />
           <input type="email" placeholder="Email" />
